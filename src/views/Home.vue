@@ -13,7 +13,7 @@ export default {
       msg:"这是主页"
     }
   },
-  mounted(): void {
+  mounted(){
     console.log("bbb")
   }
 }
