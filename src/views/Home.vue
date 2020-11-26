@@ -14,7 +14,7 @@ export default {
     }
   },
   mounted(): void {
-    console.log("aaa")
+    console.log("bbb")
   }
 }
 </script>
