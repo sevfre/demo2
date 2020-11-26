@@ -12,6 +12,9 @@ export default {
     return{
       msg:"这是主页"
     }
+  },
+  mounted(): void {
+    console.log("aaa")
   }
 }
 </script>
